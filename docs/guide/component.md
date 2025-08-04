@@ -33,4 +33,4 @@ your-slidev/
 
 Refer to the [Vue documentation](https://vuejs.org/guide/essentials/component-basics.html) for how to write Vue components.
 
-You can also <LinkInline link="guide/write-addon" /> to reuse and share your components with others.
+You can refer to <LinkInline link="guide/write-addon" /> to learn how to reuse components and share your components with others.
